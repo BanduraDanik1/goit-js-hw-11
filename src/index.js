@@ -10,7 +10,7 @@ const loadMoreBtn = document.querySelector('.load-more');
 const footer = document.querySelector('.footer');
 
 const PIXABAY_URL = 'https://pixabay.com/api/';
-const PIXABAY_API_KEY = '2208122-c38407f0c226da94dd817bfa0';
+const PIXABAY_API_KEY = '32024514-4783314e47ab08567e2df8ea6';
 const DEBOUNCE_DELAY = 100;
 let currentPage = 1;
 const POST_PER_PAGE = 40;
